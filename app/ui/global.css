@@ -16,3 +16,6 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+a {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
